@@ -1,0 +1,14 @@
+{
+  "name": "portfoliosite",
+  "version": "0.0.1",
+  "description": "Initial Build of the Front End of the Portfolio Site",
+  "main": "index.js",
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
+}
