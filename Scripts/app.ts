@@ -1,11 +1,13 @@
 // IIFE - Immediately Invoked Function Express
 // AKA - Anonymous Self-Executing Function
 "use strict";
-(function () {
+(function()
+{
     // function format 1 - named function
-    function Start() {
+    function Start()
+    {
         console.log("App Started!");
     }
+
     window.addEventListener("load", Start);
 })();
-//# sourceMappingURL=app.js.map
